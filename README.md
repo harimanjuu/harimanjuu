@@ -1,4 +1,5 @@
-# Hello
+# Hello!
+## I'm Harimanjuu. I have two hedgehogs. I like "RPG" and "programing". I am trying to make a new game with scratch.
 
 <!--
 **harimanjuu/harimanjuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
